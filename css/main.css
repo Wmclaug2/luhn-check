@@ -1,0 +1,36 @@
+html body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+html body .page-wrapper {
+  width: 100%;
+}
+html body .page-wrapper header {
+  font-size: 2.5em;
+}
+html body .page-wrapper i {
+  font-size: 3em;
+}
+html body .page-wrapper .about {
+  display: block;
+  width: 50%;
+}
+html body .page-wrapper .form-wrapper {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  width: 60%;
+}
+html body .page-wrapper .form-wrapper #credit-card-number-input {
+  border-radius: 20px;
+  font-size: 2em;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+html body .page-wrapper .form-wrapper .form-button {
+  border-radius: 10px;
+  font-size: 22px;
+  margin: 10px 10px;
+  padding: 8px;
+}
